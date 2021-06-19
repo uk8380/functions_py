@@ -42,7 +42,7 @@ dad(last_name="Ravindra")
 def return_1(x):
     return 5*x
 print(return_1((2)))
-#lamda
+#lamda function
 #syntax lamda fun:expression
 x=lambda a,b:a*b
 print(x(5,3))
