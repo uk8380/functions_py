@@ -43,6 +43,7 @@ def return_1(x):
     return 5*x
 print(return_1((2)))
 #lamda function
+#asynchronous function
 #syntax lamda fun:expression
 x=lambda a,b:a*b
 print(x(5,3))
